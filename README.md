@@ -1,0 +1,1 @@
+the game is a simple code, in order to accommodate a mini-game in motion from the mit inventor App website, also version 0.1.5 weighs only 7.4 megabytes, the project has not been finalized and needs to be finalized 
